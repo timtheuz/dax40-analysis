@@ -1,0 +1,11 @@
+data/raw/
+data/processed
+venv/
+__pycache__/
+
+*.pyc
+
+.DS_Store
+outputs/figures/
+
+git add .

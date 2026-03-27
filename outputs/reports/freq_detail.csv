@@ -1,0 +1,481 @@
+﻿company,sector,year,role,language,wordcount,group,count_raw,count_norm
+Allianz,Versicherungen,2022,ceo,de,3446,KI/AI,0,0.0
+Allianz,Versicherungen,2022,ceo,de,3446,Daten/Data,0,0.0
+Allianz,Versicherungen,2022,ar,de,0,KI/AI,0,0.0
+Allianz,Versicherungen,2022,ar,de,0,Daten/Data,0,0.0
+Allianz,Versicherungen,2023,ceo,de,4031,KI/AI,0,0.0
+Allianz,Versicherungen,2023,ceo,de,4031,Daten/Data,0,0.0
+Allianz,Versicherungen,2023,ar,de,4069,KI/AI,0,0.0
+Allianz,Versicherungen,2023,ar,de,4069,Daten/Data,0,0.0
+Allianz,Versicherungen,2024,ceo,de,3496,KI/AI,3,0.8581
+Allianz,Versicherungen,2024,ceo,de,3496,Daten/Data,3,0.8581
+Allianz,Versicherungen,2024,ar,de,2355,KI/AI,0,0.0
+Allianz,Versicherungen,2024,ar,de,2355,Daten/Data,0,0.0
+Allianz,Versicherungen,2025,ceo,de,4041,KI/AI,0,0.0
+Allianz,Versicherungen,2025,ceo,de,4041,Daten/Data,0,0.0
+Allianz,Versicherungen,2025,ar,de,2426,KI/AI,0,0.0
+Allianz,Versicherungen,2025,ar,de,2426,Daten/Data,0,0.0
+BASF,Chemie,2022,ceo,de,4443,KI/AI,0,0.0
+BASF,Chemie,2022,ceo,de,4443,Daten/Data,0,0.0
+BASF,Chemie,2023,ceo,de,4555,KI/AI,0,0.0
+BASF,Chemie,2023,ceo,de,4555,Daten/Data,0,0.0
+BASF,Chemie,2024,ceo,de,4854,KI/AI,0,0.0
+BASF,Chemie,2024,ceo,de,4854,Daten/Data,0,0.0
+BASF,Chemie,2025,ceo,de,4219,KI/AI,5,1.1851
+BASF,Chemie,2025,ceo,de,4219,Daten/Data,0,0.0
+BMW,Automobil,2022,ceo,de,3915,KI/AI,0,0.0
+BMW,Automobil,2022,ceo,de,3915,Daten/Data,0,0.0
+BMW,Automobil,2022,ar,de,1112,KI/AI,0,0.0
+BMW,Automobil,2022,ar,de,1112,Daten/Data,0,0.0
+BMW,Automobil,2023,ceo,de,4797,KI/AI,1,0.2085
+BMW,Automobil,2023,ceo,de,4797,Daten/Data,0,0.0
+BMW,Automobil,2023,ar,de,906,KI/AI,0,0.0
+BMW,Automobil,2023,ar,de,906,Daten/Data,0,0.0
+BMW,Automobil,2024,ceo,de,4063,KI/AI,1,0.2461
+BMW,Automobil,2024,ceo,de,4063,Daten/Data,1,0.2461
+BMW,Automobil,2024,ar,de,1014,KI/AI,0,0.0
+BMW,Automobil,2024,ar,de,1014,Daten/Data,1,0.9862
+BMW,Automobil,2025,ceo,de,4334,KI/AI,5,1.1537
+BMW,Automobil,2025,ceo,de,4334,Daten/Data,1,0.2307
+BMW,Automobil,2025,ar,de,1217,KI/AI,1,0.8217
+BMW,Automobil,2025,ar,de,1217,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2022,ceo,de,4203,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2022,ceo,de,4203,Daten/Data,1,0.2379
+Bayer,Chemie & Pharma,2022,ar,de,2691,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2022,ar,de,2691,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2023,ceo,de,3999,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2023,ceo,de,3999,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2023,ar,de,2267,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2023,ar,de,2267,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2024,ceo,de,3139,KI/AI,1,0.3186
+Bayer,Chemie & Pharma,2024,ceo,de,3139,Daten/Data,1,0.3186
+Bayer,Chemie & Pharma,2024,ar,de,1996,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2024,ar,de,1996,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2025,ceo,de,2899,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2025,ceo,de,2899,Daten/Data,0,0.0
+Bayer,Chemie & Pharma,2025,ar,de,2621,KI/AI,0,0.0
+Bayer,Chemie & Pharma,2025,ar,de,2621,Daten/Data,0,0.0
+Beiersdorf,Konsumgüter,2022,ceo,de,2789,KI/AI,0,0.0
+Beiersdorf,Konsumgüter,2022,ceo,de,2789,Daten/Data,0,0.0
+Beiersdorf,Konsumgüter,2023,ceo,de,2675,KI/AI,0,0.0
+Beiersdorf,Konsumgüter,2023,ceo,de,2675,Daten/Data,0,0.0
+Beiersdorf,Konsumgüter,2024,ceo,de,2331,KI/AI,0,0.0
+Beiersdorf,Konsumgüter,2024,ceo,de,2331,Daten/Data,0,0.0
+Beiersdorf,Konsumgüter,2025,ceo,de,2747,KI/AI,0,0.0
+Beiersdorf,Konsumgüter,2025,ceo,de,2747,Daten/Data,0,0.0
+Brenntag,Chemie,2022,ceo,de,3329,KI/AI,0,0.0
+Brenntag,Chemie,2022,ceo,de,3329,Daten/Data,0,0.0
+Brenntag,Chemie,2022,ar,de,3684,KI/AI,0,0.0
+Brenntag,Chemie,2022,ar,de,3684,Daten/Data,0,0.0
+Brenntag,Chemie,2023,ceo,de,112,KI/AI,0,0.0
+Brenntag,Chemie,2023,ceo,de,112,Daten/Data,0,0.0
+Brenntag,Chemie,2023,ar,de,4482,KI/AI,0,0.0
+Brenntag,Chemie,2023,ar,de,4482,Daten/Data,3,0.6693
+Brenntag,Chemie,2024,ceo,de,0,KI/AI,0,0.0
+Brenntag,Chemie,2024,ceo,de,0,Daten/Data,0,0.0
+Brenntag,Chemie,2024,ar,de,4174,KI/AI,1,0.2396
+Brenntag,Chemie,2024,ar,de,4174,Daten/Data,3,0.7187
+Brenntag,Chemie,2025,ceo,de,3883,KI/AI,1,0.2575
+Brenntag,Chemie,2025,ceo,de,3883,Daten/Data,3,0.7726
+Brenntag,Chemie,2025,ar,de,4075,KI/AI,2,0.4908
+Brenntag,Chemie,2025,ar,de,4075,Daten/Data,1,0.2454
+Commerzbank,Banken,2022,ceo,de,2696,KI/AI,0,0.0
+Commerzbank,Banken,2022,ceo,de,2696,Daten/Data,0,0.0
+Commerzbank,Banken,2022,ar,de,1362,KI/AI,0,0.0
+Commerzbank,Banken,2022,ar,de,1362,Daten/Data,0,0.0
+Commerzbank,Banken,2023,ceo,de,3788,KI/AI,0,0.0
+Commerzbank,Banken,2023,ceo,de,3788,Daten/Data,0,0.0
+Commerzbank,Banken,2023,ar,de,775,KI/AI,0,0.0
+Commerzbank,Banken,2023,ar,de,775,Daten/Data,0,0.0
+Commerzbank,Banken,2024,ceo,de,4040,KI/AI,2,0.495
+Commerzbank,Banken,2024,ceo,de,4040,Daten/Data,0,0.0
+Commerzbank,Banken,2024,ar,de,891,KI/AI,0,0.0
+Commerzbank,Banken,2024,ar,de,891,Daten/Data,0,0.0
+Commerzbank,Banken,2025,ceo,de,4182,KI/AI,13,3.1086
+Commerzbank,Banken,2025,ceo,de,4182,Daten/Data,0,0.0
+Commerzbank,Banken,2025,ar,de,937,KI/AI,0,0.0
+Commerzbank,Banken,2025,ar,de,937,Daten/Data,0,0.0
+Continental,Automobil,2022,ceo,de,3613,KI/AI,1,0.2768
+Continental,Automobil,2022,ceo,de,3613,Daten/Data,2,0.5536
+Continental,Automobil,2022,ar,de,3121,KI/AI,0,0.0
+Continental,Automobil,2022,ar,de,3121,Daten/Data,0,0.0
+Continental,Automobil,2023,ceo,de,3399,KI/AI,1,0.2942
+Continental,Automobil,2023,ceo,de,3399,Daten/Data,1,0.2942
+Continental,Automobil,2023,ar,de,3357,KI/AI,0,0.0
+Continental,Automobil,2023,ar,de,3357,Daten/Data,0,0.0
+Continental,Automobil,2024,ceo,de,3007,KI/AI,0,0.0
+Continental,Automobil,2024,ceo,de,3007,Daten/Data,1,0.3326
+Continental,Automobil,2024,ar,de,3783,KI/AI,0,0.0
+Continental,Automobil,2024,ar,de,3783,Daten/Data,0,0.0
+Continental,Automobil,2025,ceo,de,3041,KI/AI,1,0.3288
+Continental,Automobil,2025,ceo,de,3041,Daten/Data,0,0.0
+Continental,Automobil,2025,ar,de,3834,KI/AI,0,0.0
+Continental,Automobil,2025,ar,de,3834,Daten/Data,0,0.0
+DHL,Logistik,2022,ceo,de,4208,KI/AI,0,0.0
+DHL,Logistik,2022,ceo,de,4208,Daten/Data,2,0.4753
+DHL,Logistik,2023,ceo,de,3856,KI/AI,1,0.2593
+DHL,Logistik,2023,ceo,de,3856,Daten/Data,1,0.2593
+DHL,Logistik,2024,ceo,de,4269,KI/AI,2,0.4685
+DHL,Logistik,2024,ceo,de,4269,Daten/Data,2,0.4685
+DHL,Logistik,2025,ceo,de,3506,KI/AI,8,2.2818
+DHL,Logistik,2025,ceo,de,3506,Daten/Data,0,0.0
+DHL,Logistik,2025,ar,de,1044,KI/AI,0,0.0
+DHL,Logistik,2025,ar,de,1044,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2022,ceo,de,3667,KI/AI,0,0.0
+DaimlerTruck,Automobil,2022,ceo,de,3667,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2022,ar,de,2671,KI/AI,0,0.0
+DaimlerTruck,Automobil,2022,ar,de,2671,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2023,ceo,de,3832,KI/AI,0,0.0
+DaimlerTruck,Automobil,2023,ceo,de,3832,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2023,ar,de,2166,KI/AI,0,0.0
+DaimlerTruck,Automobil,2023,ar,de,2166,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2024,ceo,de,3305,KI/AI,0,0.0
+DaimlerTruck,Automobil,2024,ceo,de,3305,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2024,ar,de,2225,KI/AI,0,0.0
+DaimlerTruck,Automobil,2024,ar,de,2225,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2025,ceo,de,1861,KI/AI,0,0.0
+DaimlerTruck,Automobil,2025,ceo,de,1861,Daten/Data,0,0.0
+DaimlerTruck,Automobil,2025,ar,de,1689,KI/AI,0,0.0
+DaimlerTruck,Automobil,2025,ar,de,1689,Daten/Data,0,0.0
+DeutscheBank,Banken,2022,ceo,de,5479,KI/AI,0,0.0
+DeutscheBank,Banken,2022,ceo,de,5479,Daten/Data,1,0.1825
+DeutscheBank,Banken,2022,ar,de,4052,KI/AI,0,0.0
+DeutscheBank,Banken,2022,ar,de,4052,Daten/Data,0,0.0
+DeutscheBank,Banken,2023,ceo,de,4064,KI/AI,0,0.0
+DeutscheBank,Banken,2023,ceo,de,4064,Daten/Data,0,0.0
+DeutscheBank,Banken,2023,ar,de,1934,KI/AI,0,0.0
+DeutscheBank,Banken,2023,ar,de,1934,Daten/Data,0,0.0
+DeutscheBank,Banken,2024,ceo,de,4283,KI/AI,1,0.2335
+DeutscheBank,Banken,2024,ceo,de,4283,Daten/Data,0,0.0
+DeutscheBank,Banken,2024,ar,de,1296,KI/AI,0,0.0
+DeutscheBank,Banken,2024,ar,de,1296,Daten/Data,0,0.0
+DeutscheBank,Banken,2025,ceo,de,3925,KI/AI,1,0.2548
+DeutscheBank,Banken,2025,ceo,de,3925,Daten/Data,1,0.2548
+DeutscheBank,Banken,2025,ar,de,1696,KI/AI,0,0.0
+DeutscheBank,Banken,2025,ar,de,1696,Daten/Data,1,0.5896
+DeutscheBoerse,Finanzdienstleistungen,2022,ceo,de,3500,KI/AI,4,1.1429
+DeutscheBoerse,Finanzdienstleistungen,2022,ceo,de,3500,Daten/Data,24,6.8571
+DeutscheBoerse,Finanzdienstleistungen,2022,ar,de,4758,KI/AI,2,0.4203
+DeutscheBoerse,Finanzdienstleistungen,2022,ar,de,4758,Daten/Data,10,2.1017
+DeutscheBoerse,Finanzdienstleistungen,2023,ceo,de,3823,KI/AI,0,0.0
+DeutscheBoerse,Finanzdienstleistungen,2023,ceo,de,3823,Daten/Data,13,3.4005
+DeutscheBoerse,Finanzdienstleistungen,2023,ar,de,3703,KI/AI,4,1.0802
+DeutscheBoerse,Finanzdienstleistungen,2023,ar,de,3703,Daten/Data,4,1.0802
+DeutscheBoerse,Finanzdienstleistungen,2024,ceo,de,2971,KI/AI,1,0.3366
+DeutscheBoerse,Finanzdienstleistungen,2024,ceo,de,2971,Daten/Data,2,0.6732
+DeutscheBoerse,Finanzdienstleistungen,2024,ar,de,2167,KI/AI,2,0.9229
+DeutscheBoerse,Finanzdienstleistungen,2024,ar,de,2167,Daten/Data,3,1.3844
+DeutscheBoerse,Finanzdienstleistungen,2025,ceo,de,3566,KI/AI,0,0.0
+DeutscheBoerse,Finanzdienstleistungen,2025,ceo,de,3566,Daten/Data,2,0.5609
+DeutscheBoerse,Finanzdienstleistungen,2025,ar,de,2568,KI/AI,7,2.7259
+DeutscheBoerse,Finanzdienstleistungen,2025,ar,de,2568,Daten/Data,0,0.0
+Eon,Energie,2022,ceo,de,2859,KI/AI,0,0.0
+Eon,Energie,2022,ceo,de,2859,Daten/Data,0,0.0
+Eon,Energie,2023,ceo,de,2376,KI/AI,0,0.0
+Eon,Energie,2023,ceo,de,2376,Daten/Data,1,0.4209
+Eon,Energie,2024,ceo,de,1899,KI/AI,0,0.0
+Eon,Energie,2024,ceo,de,1899,Daten/Data,0,0.0
+Eon,Energie,2025,ceo,de,2761,KI/AI,2,0.7244
+Eon,Energie,2025,ceo,de,2761,Daten/Data,1,0.3622
+Fresenius,Medizintechnik & Kliniken,2022,ceo,de,3747,KI/AI,0,0.0
+Fresenius,Medizintechnik & Kliniken,2022,ceo,de,3747,Daten/Data,0,0.0
+Fresenius,Medizintechnik & Kliniken,2023,ceo,de,2459,KI/AI,2,0.8133
+Fresenius,Medizintechnik & Kliniken,2023,ceo,de,2459,Daten/Data,0,0.0
+Fresenius,Medizintechnik & Kliniken,2024,ceo,de,3256,KI/AI,6,1.8428
+Fresenius,Medizintechnik & Kliniken,2024,ceo,de,3256,Daten/Data,6,1.8428
+Fresenius,Medizintechnik & Kliniken,2024,ar,de,1318,KI/AI,1,0.7587
+Fresenius,Medizintechnik & Kliniken,2024,ar,de,1318,Daten/Data,0,0.0
+Fresenius,Medizintechnik & Kliniken,2025,ceo,de,3497,KI/AI,7,2.0017
+Fresenius,Medizintechnik & Kliniken,2025,ceo,de,3497,Daten/Data,2,0.5719
+Fresenius,Medizintechnik & Kliniken,2025,ar,de,1325,KI/AI,0,0.0
+Fresenius,Medizintechnik & Kliniken,2025,ar,de,1325,Daten/Data,0,0.0
+FreseniusMedicalCare,Medizintechnik,2022,ceo,de,2708,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2022,ceo,de,2708,Daten/Data,2,0.7386
+FreseniusMedicalCare,Medizintechnik,2022,ar,de,4644,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2022,ar,de,4644,Daten/Data,0,0.0
+FreseniusMedicalCare,Medizintechnik,2023,ceo,de,2055,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2023,ceo,de,2055,Daten/Data,1,0.4866
+FreseniusMedicalCare,Medizintechnik,2023,ar,de,4524,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2023,ar,de,4524,Daten/Data,0,0.0
+FreseniusMedicalCare,Medizintechnik,2024,ceo,de,2616,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2024,ceo,de,2616,Daten/Data,0,0.0
+FreseniusMedicalCare,Medizintechnik,2024,ar,de,6724,KI/AI,1,0.1487
+FreseniusMedicalCare,Medizintechnik,2024,ar,de,6724,Daten/Data,0,0.0
+FreseniusMedicalCare,Medizintechnik,2025,ceo,de,2438,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2025,ceo,de,2438,Daten/Data,1,0.4102
+FreseniusMedicalCare,Medizintechnik,2025,ar,de,4658,KI/AI,0,0.0
+FreseniusMedicalCare,Medizintechnik,2025,ar,de,4658,Daten/Data,1,0.2147
+GEA,Maschinenbau,2022,ceo,de,4333,KI/AI,0,0.0
+GEA,Maschinenbau,2022,ceo,de,4333,Daten/Data,2,0.4616
+GEA,Maschinenbau,2022,ar,de,1437,KI/AI,0,0.0
+GEA,Maschinenbau,2022,ar,de,1437,Daten/Data,0,0.0
+GEA,Maschinenbau,2023,ceo,de,3870,KI/AI,0,0.0
+GEA,Maschinenbau,2023,ceo,de,3870,Daten/Data,0,0.0
+GEA,Maschinenbau,2023,ar,de,1098,KI/AI,0,0.0
+GEA,Maschinenbau,2023,ar,de,1098,Daten/Data,0,0.0
+GEA,Maschinenbau,2024,ceo,de,3421,KI/AI,1,0.2923
+GEA,Maschinenbau,2024,ceo,de,3421,Daten/Data,0,0.0
+GEA,Maschinenbau,2024,ar,de,1474,KI/AI,0,0.0
+GEA,Maschinenbau,2024,ar,de,1474,Daten/Data,0,0.0
+GEA,Maschinenbau,2025,ceo,de,3587,KI/AI,2,0.5576
+GEA,Maschinenbau,2025,ceo,de,3587,Daten/Data,2,0.5576
+GEA,Maschinenbau,2025,ar,de,2522,KI/AI,0,0.0
+GEA,Maschinenbau,2025,ar,de,2522,Daten/Data,0,0.0
+HannoverRe,Versicherungen,2022,ceo,de,3139,KI/AI,0,0.0
+HannoverRe,Versicherungen,2022,ceo,de,3139,Daten/Data,1,0.3186
+HannoverRe,Versicherungen,2023,ceo,de,2902,KI/AI,0,0.0
+HannoverRe,Versicherungen,2023,ceo,de,2902,Daten/Data,0,0.0
+HannoverRe,Versicherungen,2024,ceo,de,2525,KI/AI,1,0.396
+HannoverRe,Versicherungen,2024,ceo,de,2525,Daten/Data,3,1.1881
+HannoverRe,Versicherungen,2025,ceo,de,1904,KI/AI,0,0.0
+HannoverRe,Versicherungen,2025,ceo,de,1904,Daten/Data,0,0.0
+HeidelbergMaterials,Baustoffe,2022,ceo,de,453,KI/AI,0,0.0
+HeidelbergMaterials,Baustoffe,2022,ceo,de,453,Daten/Data,0,0.0
+HeidelbergMaterials,Baustoffe,2023,ceo,de,670,KI/AI,0,0.0
+HeidelbergMaterials,Baustoffe,2023,ceo,de,670,Daten/Data,0,0.0
+HeidelbergMaterials,Baustoffe,2024,ceo,de,1013,KI/AI,0,0.0
+HeidelbergMaterials,Baustoffe,2024,ceo,de,1013,Daten/Data,0,0.0
+HeidelbergMaterials,Baustoffe,2024,ar,en,1530,KI/AI,0,0.0
+HeidelbergMaterials,Baustoffe,2024,ar,en,1530,Daten/Data,0,0.0
+HeidelbergMaterials,Baustoffe,2025,ceo,de,1628,KI/AI,1,0.6143
+HeidelbergMaterials,Baustoffe,2025,ceo,de,1628,Daten/Data,4,2.457
+HeidelbergMaterials,Baustoffe,2025,ar,en,1587,KI/AI,1,0.6301
+HeidelbergMaterials,Baustoffe,2025,ar,en,1587,Daten/Data,0,0.0
+Henkel,Konsumgüter & Chemie,2022,ceo,de,4355,KI/AI,0,0.0
+Henkel,Konsumgüter & Chemie,2022,ceo,de,4355,Daten/Data,1,0.2296
+Henkel,Konsumgüter & Chemie,2023,ceo,de,5505,KI/AI,0,0.0
+Henkel,Konsumgüter & Chemie,2023,ceo,de,5505,Daten/Data,0,0.0
+Henkel,Konsumgüter & Chemie,2024,ceo,de,4056,KI/AI,1,0.2465
+Henkel,Konsumgüter & Chemie,2024,ceo,de,4056,Daten/Data,1,0.2465
+Henkel,Konsumgüter & Chemie,2025,ceo,de,3951,KI/AI,5,1.2655
+Henkel,Konsumgüter & Chemie,2025,ceo,de,3951,Daten/Data,0,0.0
+Infineon,Halbleiter,2022,ceo,de,3556,KI/AI,0,0.0
+Infineon,Halbleiter,2022,ceo,de,3556,Daten/Data,2,0.5624
+Infineon,Halbleiter,2022,ar,de,425,KI/AI,0,0.0
+Infineon,Halbleiter,2022,ar,de,425,Daten/Data,0,0.0
+Infineon,Halbleiter,2023,ceo,de,3754,KI/AI,3,0.7991
+Infineon,Halbleiter,2023,ceo,de,3754,Daten/Data,5,1.3319
+Infineon,Halbleiter,2023,ar,de,934,KI/AI,0,0.0
+Infineon,Halbleiter,2023,ar,de,934,Daten/Data,0,0.0
+Infineon,Halbleiter,2024,ceo,de,4123,KI/AI,7,1.6978
+Infineon,Halbleiter,2024,ceo,de,4123,Daten/Data,2,0.4851
+Infineon,Halbleiter,2024,ar,de,530,KI/AI,0,0.0
+Infineon,Halbleiter,2024,ar,de,530,Daten/Data,0,0.0
+Infineon,Halbleiter,2025,ceo,de,3762,KI/AI,52,13.8224
+Infineon,Halbleiter,2025,ceo,de,3762,Daten/Data,1,0.2658
+Infineon,Halbleiter,2025,ar,de,575,KI/AI,0,0.0
+Infineon,Halbleiter,2025,ar,de,575,Daten/Data,0,0.0
+MTU,Luftfahrt,2022,ceo,de,2396,KI/AI,0,0.0
+MTU,Luftfahrt,2022,ceo,de,2396,Daten/Data,0,0.0
+MTU,Luftfahrt,2023,ceo,de,2631,KI/AI,0,0.0
+MTU,Luftfahrt,2023,ceo,de,2631,Daten/Data,0,0.0
+MTU,Luftfahrt,2023,ar,de,1669,KI/AI,0,0.0
+MTU,Luftfahrt,2023,ar,de,1669,Daten/Data,0,0.0
+MTU,Luftfahrt,2024,ceo,de,3786,KI/AI,0,0.0
+MTU,Luftfahrt,2024,ceo,de,3786,Daten/Data,0,0.0
+MTU,Luftfahrt,2024,ar,de,2460,KI/AI,0,0.0
+MTU,Luftfahrt,2024,ar,de,2460,Daten/Data,0,0.0
+MTU,Luftfahrt,2025,ceo,de,4890,KI/AI,0,0.0
+MTU,Luftfahrt,2025,ceo,de,4890,Daten/Data,0,0.0
+MTU,Luftfahrt,2025,ar,de,2077,KI/AI,0,0.0
+MTU,Luftfahrt,2025,ar,de,2077,Daten/Data,0,0.0
+Mercedes,Automobil,2022,ceo,de,15,KI/AI,0,0.0
+Mercedes,Automobil,2022,ceo,de,15,Daten/Data,0,0.0
+Mercedes,Automobil,2022,ar,de,7,KI/AI,0,0.0
+Mercedes,Automobil,2022,ar,de,7,Daten/Data,0,0.0
+Mercedes,Automobil,2023,ceo,de,11,KI/AI,0,0.0
+Mercedes,Automobil,2023,ceo,de,11,Daten/Data,0,0.0
+Mercedes,Automobil,2023,ar,de,8,KI/AI,0,0.0
+Mercedes,Automobil,2023,ar,de,8,Daten/Data,0,0.0
+Mercedes,Automobil,2024,ceo,de,31,KI/AI,0,0.0
+Mercedes,Automobil,2024,ceo,de,31,Daten/Data,0,0.0
+Mercedes,Automobil,2024,ar,de,2431,KI/AI,1,0.4114
+Mercedes,Automobil,2024,ar,de,2431,Daten/Data,1,0.4114
+Mercedes,Automobil,2025,ceo,de,24,KI/AI,0,0.0
+Mercedes,Automobil,2025,ceo,de,24,Daten/Data,0,0.0
+Mercedes,Automobil,2025,ar,de,17,KI/AI,0,0.0
+Mercedes,Automobil,2025,ar,de,17,Daten/Data,0,0.0
+Merck,Chemie & Pharma,2022,ceo,de,3615,KI/AI,0,0.0
+Merck,Chemie & Pharma,2022,ceo,de,3615,Daten/Data,7,1.9364
+Merck,Chemie & Pharma,2024,ceo,de,2792,KI/AI,3,1.0745
+Merck,Chemie & Pharma,2024,ceo,de,2792,Daten/Data,1,0.3582
+Merck,Chemie & Pharma,2025,ceo,de,3051,KI/AI,12,3.9331
+Merck,Chemie & Pharma,2025,ceo,de,3051,Daten/Data,0,0.0
+Merck,Chemie & Pharma,2023,ceo,de,3634,KI/AI,0,0.0
+Merck,Chemie & Pharma,2023,ceo,de,3634,Daten/Data,0,0.0
+MunichRe,Versicherungen,2022,ceo,en,2899,KI/AI,0,0.0
+MunichRe,Versicherungen,2022,ceo,en,2899,Daten/Data,1,0.3449
+MunichRe,Versicherungen,2022,ar,en,1632,KI/AI,0,0.0
+MunichRe,Versicherungen,2022,ar,en,1632,Daten/Data,0,0.0
+MunichRe,Versicherungen,2023,ceo,en,3161,KI/AI,0,0.0
+MunichRe,Versicherungen,2023,ceo,en,3161,Daten/Data,0,0.0
+MunichRe,Versicherungen,2023,ar,en,1961,KI/AI,1,0.5099
+MunichRe,Versicherungen,2023,ar,en,1961,Daten/Data,2,1.0199
+MunichRe,Versicherungen,2024,ceo,en,2725,KI/AI,0,0.0
+MunichRe,Versicherungen,2024,ceo,en,2725,Daten/Data,0,0.0
+MunichRe,Versicherungen,2024,ar,en,1626,KI/AI,1,0.615
+MunichRe,Versicherungen,2024,ar,en,1626,Daten/Data,0,0.0
+MunichRe,Versicherungen,2025,ceo,en,2963,KI/AI,0,0.0
+MunichRe,Versicherungen,2025,ceo,en,2963,Daten/Data,0,0.0
+MunichRe,Versicherungen,2025,ar,en,2082,KI/AI,0,0.0
+MunichRe,Versicherungen,2025,ar,en,2082,Daten/Data,0,0.0
+PorscheSE,Holding,2022,ceo,de,2630,KI/AI,0,0.0
+PorscheSE,Holding,2022,ceo,de,2630,Daten/Data,0,0.0
+PorscheSE,Holding,2023,ceo,de,3176,KI/AI,3,0.9446
+PorscheSE,Holding,2023,ceo,de,3176,Daten/Data,0,0.0
+PorscheSE,Holding,2023,ar,de,1471,KI/AI,0,0.0
+PorscheSE,Holding,2023,ar,de,1471,Daten/Data,0,0.0
+PorscheSE,Holding,2024,ceo,de,2821,KI/AI,4,1.4179
+PorscheSE,Holding,2024,ceo,de,2821,Daten/Data,0,0.0
+PorscheSE,Holding,2024,ar,de,863,KI/AI,0,0.0
+PorscheSE,Holding,2024,ar,de,863,Daten/Data,0,0.0
+PorscheSE,Holding,2025,ceo,de,2629,KI/AI,3,1.1411
+PorscheSE,Holding,2025,ceo,de,2629,Daten/Data,1,0.3804
+PorscheSE,Holding,2025,ar,de,851,KI/AI,0,0.0
+PorscheSE,Holding,2025,ar,de,851,Daten/Data,0,0.0
+Rheinmetall,Wehrtechnik,2022,ar,de,0,KI/AI,0,0.0
+Rheinmetall,Wehrtechnik,2022,ar,de,0,Daten/Data,0,0.0
+Rheinmetall,Wehrtechnik,2024,ceo,de,3575,KI/AI,0,0.0
+Rheinmetall,Wehrtechnik,2024,ceo,de,3575,Daten/Data,0,0.0
+Rheinmetall,Wehrtechnik,2024,ar,de,1060,KI/AI,0,0.0
+Rheinmetall,Wehrtechnik,2024,ar,de,1060,Daten/Data,0,0.0
+Rheinmetall,Wehrtechnik,2025,ceo,de,5758,KI/AI,4,0.6947
+Rheinmetall,Wehrtechnik,2025,ceo,de,5758,Daten/Data,0,0.0
+Rheinmetall,Wehrtechnik,2025,ar,de,1141,KI/AI,1,0.8764
+Rheinmetall,Wehrtechnik,2025,ar,de,1141,Daten/Data,0,0.0
+RWE,Energie,2022,ceo,de,3462,KI/AI,0,0.0
+RWE,Energie,2022,ceo,de,3462,Daten/Data,0,0.0
+RWE,Energie,2022,ar,de,1258,KI/AI,0,0.0
+RWE,Energie,2022,ar,de,1258,Daten/Data,0,0.0
+RWE,Energie,2023,ceo,de,3251,KI/AI,0,0.0
+RWE,Energie,2023,ceo,de,3251,Daten/Data,0,0.0
+RWE,Energie,2024,ceo,de,2189,KI/AI,0,0.0
+RWE,Energie,2024,ceo,de,2189,Daten/Data,0,0.0
+RWE,Energie,2024,ar,de,708,KI/AI,0,0.0
+RWE,Energie,2024,ar,de,708,Daten/Data,0,0.0
+RWE,Energie,2025,ceo,de,2739,KI/AI,3,1.0953
+RWE,Energie,2025,ceo,de,2739,Daten/Data,0,0.0
+RWE,Energie,2025,ar,de,1074,KI/AI,0,0.0
+RWE,Energie,2025,ar,de,1074,Daten/Data,0,0.0
+SAP,Software,2022,ceo,de,2629,KI/AI,0,0.0
+SAP,Software,2022,ceo,de,2629,Daten/Data,0,0.0
+SAP,Software,2022,ar,de,1679,KI/AI,0,0.0
+SAP,Software,2022,ar,de,1679,Daten/Data,0,0.0
+SAP,Software,2023,ceo,de,3475,KI/AI,3,0.8633
+SAP,Software,2023,ceo,de,3475,Daten/Data,3,0.8633
+SAP,Software,2023,ar,de,1719,KI/AI,0,0.0
+SAP,Software,2023,ar,de,1719,Daten/Data,0,0.0
+SAP,Software,2024,ceo,de,3127,KI/AI,30,9.5939
+SAP,Software,2024,ceo,de,3127,Daten/Data,3,0.9594
+SAP,Software,2024,ar,de,1405,KI/AI,5,3.5587
+SAP,Software,2024,ar,de,1405,Daten/Data,0,0.0
+SAP,Software,2025,ceo,de,2655,KI/AI,23,8.6629
+SAP,Software,2025,ceo,de,2655,Daten/Data,11,4.1431
+SAP,Software,2025,ar,de,1061,KI/AI,2,1.885
+SAP,Software,2025,ar,de,1061,Daten/Data,3,2.8275
+Siemens,Elektrotechnik,2022,ceo,de,4646,KI/AI,0,0.0
+Siemens,Elektrotechnik,2022,ceo,de,4646,Daten/Data,1,0.2152
+Siemens,Elektrotechnik,2022,ar,de,1926,KI/AI,0,0.0
+Siemens,Elektrotechnik,2022,ar,de,1926,Daten/Data,0,0.0
+Siemens,Elektrotechnik,2023,ceo,de,4765,KI/AI,7,1.469
+Siemens,Elektrotechnik,2023,ceo,de,4765,Daten/Data,5,1.0493
+Siemens,Elektrotechnik,2023,ar,de,2141,KI/AI,0,0.0
+Siemens,Elektrotechnik,2023,ar,de,2141,Daten/Data,0,0.0
+Siemens,Elektrotechnik,2024,ceo,de,4483,KI/AI,36,8.0303
+Siemens,Elektrotechnik,2024,ceo,de,4483,Daten/Data,4,0.8923
+Siemens,Elektrotechnik,2024,ar,de,2145,KI/AI,2,0.9324
+Siemens,Elektrotechnik,2024,ar,de,2145,Daten/Data,0,0.0
+Siemens,Elektrotechnik,2025,ceo,de,3713,KI/AI,22,5.9251
+Siemens,Elektrotechnik,2025,ceo,de,3713,Daten/Data,9,2.4239
+Siemens,Elektrotechnik,2025,ar,de,2139,KI/AI,4,1.87
+Siemens,Elektrotechnik,2025,ar,de,2139,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2022,ceo,de,3678,KI/AI,0,0.0
+SiemensEnergy,Energietechnik,2022,ceo,de,3678,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2022,ar,de,3072,KI/AI,0,0.0
+SiemensEnergy,Energietechnik,2022,ar,de,3072,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2023,ceo,de,4227,KI/AI,0,0.0
+SiemensEnergy,Energietechnik,2023,ceo,de,4227,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2023,ar,de,2809,KI/AI,0,0.0
+SiemensEnergy,Energietechnik,2023,ar,de,2809,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2024,ceo,de,3614,KI/AI,2,0.5534
+SiemensEnergy,Energietechnik,2024,ceo,de,3614,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2024,ar,de,3445,KI/AI,0,0.0
+SiemensEnergy,Energietechnik,2024,ar,de,3445,Daten/Data,0,0.0
+SiemensEnergy,Energietechnik,2025,ceo,de,3881,KI/AI,5,1.2883
+SiemensEnergy,Energietechnik,2025,ceo,de,3881,Daten/Data,3,0.773
+SiemensEnergy,Energietechnik,2025,ar,de,2585,KI/AI,5,1.9342
+SiemensEnergy,Energietechnik,2025,ar,de,2585,Daten/Data,0,0.0
+SiemensHealthineers,Medizintechnik,2022,ceo,de,3184,KI/AI,4,1.2563
+SiemensHealthineers,Medizintechnik,2022,ceo,de,3184,Daten/Data,4,1.2563
+SiemensHealthineers,Medizintechnik,2022,ar,de,558,KI/AI,0,0.0
+SiemensHealthineers,Medizintechnik,2022,ar,de,558,Daten/Data,0,0.0
+SiemensHealthineers,Medizintechnik,2023,ceo,de,3469,KI/AI,3,0.8648
+SiemensHealthineers,Medizintechnik,2023,ceo,de,3469,Daten/Data,1,0.2883
+SiemensHealthineers,Medizintechnik,2023,ar,de,1315,KI/AI,0,0.0
+SiemensHealthineers,Medizintechnik,2023,ar,de,1315,Daten/Data,0,0.0
+SiemensHealthineers,Medizintechnik,2024,ceo,de,3400,KI/AI,1,0.2941
+SiemensHealthineers,Medizintechnik,2024,ceo,de,3400,Daten/Data,1,0.2941
+SiemensHealthineers,Medizintechnik,2024,ar,de,2179,KI/AI,0,0.0
+SiemensHealthineers,Medizintechnik,2024,ar,de,2179,Daten/Data,0,0.0
+SiemensHealthineers,Medizintechnik,2025,ceo,de,3480,KI/AI,7,2.0115
+SiemensHealthineers,Medizintechnik,2025,ceo,de,3480,Daten/Data,0,0.0
+SiemensHealthineers,Medizintechnik,2025,ar,de,1465,KI/AI,0,0.0
+SiemensHealthineers,Medizintechnik,2025,ar,de,1465,Daten/Data,0,0.0
+Symrise,Chemie & Konsumgüter,2022,ceo,de,1137,KI/AI,0,0.0
+Symrise,Chemie & Konsumgüter,2022,ceo,de,1137,Daten/Data,1,0.8795
+Symrise,Chemie & Konsumgüter,2023,ceo,de,2150,KI/AI,0,0.0
+Symrise,Chemie & Konsumgüter,2023,ceo,de,2150,Daten/Data,0,0.0
+Telekom,Telekommunikation,2022,ceo,de,2822,KI/AI,1,0.3544
+Telekom,Telekommunikation,2022,ceo,de,2822,Daten/Data,1,0.3544
+Telekom,Telekommunikation,2022,ar,de,1477,KI/AI,0,0.0
+Telekom,Telekommunikation,2022,ar,de,1477,Daten/Data,0,0.0
+Telekom,Telekommunikation,2023,ceo,de,3032,KI/AI,2,0.6596
+Telekom,Telekommunikation,2023,ceo,de,3032,Daten/Data,2,0.6596
+Telekom,Telekommunikation,2023,ar,de,1477,KI/AI,0,0.0
+Telekom,Telekommunikation,2023,ar,de,1477,Daten/Data,0,0.0
+Telekom,Telekommunikation,2024,ceo,de,2737,KI/AI,10,3.6536
+Telekom,Telekommunikation,2024,ceo,de,2737,Daten/Data,3,1.0961
+Telekom,Telekommunikation,2024,ar,de,1766,KI/AI,0,0.0
+Telekom,Telekommunikation,2024,ar,de,1766,Daten/Data,1,0.5663
+Telekom,Telekommunikation,2025,ceo,de,2266,KI/AI,7,3.0891
+Telekom,Telekommunikation,2025,ceo,de,2266,Daten/Data,3,1.3239
+Telekom,Telekommunikation,2025,ar,de,4462,KI/AI,0,0.0
+Telekom,Telekommunikation,2025,ar,de,4462,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2022,ceo,de,2847,KI/AI,1,0.3512
+VolkswagenGroup,Automobil,2022,ceo,de,2847,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2022,ar,de,1872,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2022,ar,de,1872,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2023,ceo,de,3484,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2023,ceo,de,3484,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2023,ar,de,2042,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2023,ar,de,2042,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2024,ceo,de,4063,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2024,ceo,de,4063,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2024,ar,de,1655,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2024,ar,de,1655,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2025,ceo,de,3193,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2025,ceo,de,3193,Daten/Data,0,0.0
+VolkswagenGroup,Automobil,2025,ar,de,1063,KI/AI,0,0.0
+VolkswagenGroup,Automobil,2025,ar,de,1063,Daten/Data,0,0.0
+Vonovia,Immobilien,2022,ceo,de,4123,KI/AI,0,0.0
+Vonovia,Immobilien,2022,ceo,de,4123,Daten/Data,0,0.0
+Vonovia,Immobilien,2023,ceo,de,2823,KI/AI,0,0.0
+Vonovia,Immobilien,2023,ceo,de,2823,Daten/Data,0,0.0
+Vonovia,Immobilien,2023,ar,de,427,KI/AI,0,0.0
+Vonovia,Immobilien,2023,ar,de,427,Daten/Data,0,0.0
+Vonovia,Immobilien,2024,ceo,de,2684,KI/AI,1,0.3726
+Vonovia,Immobilien,2024,ceo,de,2684,Daten/Data,0,0.0
+Vonovia,Immobilien,2024,ar,de,537,KI/AI,0,0.0
+Vonovia,Immobilien,2024,ar,de,537,Daten/Data,0,0.0
+Vonovia,Immobilien,2025,ceo,de,2769,KI/AI,0,0.0
+Vonovia,Immobilien,2025,ceo,de,2769,Daten/Data,0,0.0
+Vonovia,Immobilien,2025,ar,de,566,KI/AI,0,0.0
+Vonovia,Immobilien,2025,ar,de,566,Daten/Data,0,0.0
+Zalando,Versandhandel,2022,ar,de,0,KI/AI,0,0.0
+Zalando,Versandhandel,2022,ar,de,0,Daten/Data,0,0.0
+Zalando,Versandhandel,2023,ar,de,2995,KI/AI,0,0.0
+Zalando,Versandhandel,2023,ar,de,2995,Daten/Data,0,0.0
+Zalando,Versandhandel,2024,ar,de,3357,KI/AI,0,0.0
+Zalando,Versandhandel,2024,ar,de,3357,Daten/Data,0,0.0
+Zalando,Versandhandel,2025,ar,de,3757,KI/AI,1,0.2662
+Zalando,Versandhandel,2025,ar,de,3757,Daten/Data,0,0.0

@@ -1,0 +1,66 @@
+# DAX 40 AI-Analyse Konfiguration
+# Masterarbeit: Data Availability & KI-Wahrnehmung im Zeitverlauf
+
+companies:
+  siemens:
+    name: "Siemens AG"
+    ir_base_url: "https://www.siemens.com/global/en/company/investor-relations.html"
+    annual_report_url_pattern: "https://www.siemens.com/global/en/company/investor-relations/reports-and-presentations/annual-reports.html"
+    years:
+      2022:
+        annual_report: "https://assets.new.siemens.com/siemens/assets/api/uuid:a7e5ceef-e738-476b-9bbc-d16ebe8a8ece/siemens-ar2022.pdf"
+        # CEO/Aufsichtsrat-Reden: manuell von HV-Seite
+        agm_url: "https://www.siemens.com/global/en/company/investor-relations/annual-general-meeting.html"
+      2023:
+        annual_report: "https://assets.new.siemens.com/siemens/assets/api/uuid:placeholder-2023/siemens-ar2023.pdf"
+        agm_url: "https://www.siemens.com/global/en/company/investor-relations/annual-general-meeting.html"
+      2024:
+        annual_report: "https://assets.new.siemens.com/siemens/assets/api/uuid:placeholder-2024/siemens-ar2024.pdf"
+        agm_url: "https://www.siemens.com/global/en/company/investor-relations/annual-general-meeting.html"
+      2025:
+        annual_report: null  # noch nicht verfügbar
+        agm_url: null
+
+years: [2022, 2023, 2024, 2025]
+
+# Analyse-Parameter
+ngrams:
+  terms_1gram:
+    - "data"
+    - "daten"
+    - "ki"
+    - "ai"
+  terms_2gram:
+    - "artificial intelligence"
+    - "künstliche intelligenz"
+    - "machine learning"
+    - "data driven"
+    - "datengetrieben"
+    - "large language model"
+    - "generative ai"
+    - "generative ki"
+    - "deep learning"
+    - "neural network"
+    - "neuronales netz"
+
+# Normalisierung: pro 1000 Wörter
+normalization_factor: 1000
+
+# Dokument-Typen
+doc_types:
+  - annual_report
+  - ceo_speech
+  - supervisory_speech
+
+# Sprachen (für Lemmatisierung)
+languages:
+  - de
+  - en
+
+# Pfade
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  corpus_file: "data/processed/corpus.parquet"
+  figures: "outputs/figures"
+  reports: "outputs/reports"
