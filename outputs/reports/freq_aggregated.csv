@@ -1,180 +1,180 @@
 ﻿company,sector,year,group,count_raw,count_norm,wordcount
-Allianz,Versicherungen,2022,Daten/Data,0,0.0,3446
-Allianz,Versicherungen,2022,KI/AI,0,0.0,3446
-Allianz,Versicherungen,2023,Daten/Data,0,0.0,8100
-Allianz,Versicherungen,2023,KI/AI,0,0.0,8100
-Allianz,Versicherungen,2024,Daten/Data,3,0.42905,5851
-Allianz,Versicherungen,2024,KI/AI,3,0.42905,5851
-Allianz,Versicherungen,2025,Daten/Data,0,0.0,6467
-Allianz,Versicherungen,2025,KI/AI,0,0.0,6467
-BASF,Chemie,2022,Daten/Data,0,0.0,4443
-BASF,Chemie,2022,KI/AI,0,0.0,4443
-BASF,Chemie,2023,Daten/Data,0,0.0,4555
-BASF,Chemie,2023,KI/AI,0,0.0,4555
-BASF,Chemie,2024,Daten/Data,0,0.0,4854
-BASF,Chemie,2024,KI/AI,0,0.0,4854
-BASF,Chemie,2025,Daten/Data,0,0.0,4219
-BASF,Chemie,2025,KI/AI,5,1.1851,4219
-BMW,Automobil,2022,Daten/Data,0,0.0,5027
-BMW,Automobil,2022,KI/AI,0,0.0,5027
-BMW,Automobil,2023,Daten/Data,0,0.0,5703
-BMW,Automobil,2023,KI/AI,1,0.10425,5703
-BMW,Automobil,2024,Daten/Data,2,0.61615,5077
-BMW,Automobil,2024,KI/AI,1,0.12305,5077
-BMW,Automobil,2025,Daten/Data,1,0.11535,5551
-BMW,Automobil,2025,KI/AI,6,0.9877,5551
-Bayer,Chemie & Pharma,2022,Daten/Data,1,0.11895,6894
-Bayer,Chemie & Pharma,2022,KI/AI,0,0.0,6894
-Bayer,Chemie & Pharma,2023,Daten/Data,0,0.0,6266
-Bayer,Chemie & Pharma,2023,KI/AI,0,0.0,6266
-Bayer,Chemie & Pharma,2024,Daten/Data,1,0.1593,5135
-Bayer,Chemie & Pharma,2024,KI/AI,1,0.1593,5135
-Bayer,Chemie & Pharma,2025,Daten/Data,0,0.0,5520
-Bayer,Chemie & Pharma,2025,KI/AI,0,0.0,5520
-Beiersdorf,Konsumgüter,2022,Daten/Data,0,0.0,2789
-Beiersdorf,Konsumgüter,2022,KI/AI,0,0.0,2789
+Allianz,Versicherungen,2022,Daten/Data,0,0.0,6770
+Allianz,Versicherungen,2022,KI/AI,0,0.0,6770
+Allianz,Versicherungen,2023,Daten/Data,0,0.0,8095
+Allianz,Versicherungen,2023,KI/AI,0,0.0,8095
+Allianz,Versicherungen,2024,Daten/Data,3,0.42955,5847
+Allianz,Versicherungen,2024,KI/AI,3,0.42955,5847
+Allianz,Versicherungen,2025,Daten/Data,0,0.0,6459
+Allianz,Versicherungen,2025,KI/AI,0,0.0,6459
+BASF,Chemie,2022,Daten/Data,0,0.0,4407
+BASF,Chemie,2022,KI/AI,0,0.0,4407
+BASF,Chemie,2023,Daten/Data,0,0.0,4524
+BASF,Chemie,2023,KI/AI,0,0.0,4524
+BASF,Chemie,2024,Daten/Data,0,0.0,4833
+BASF,Chemie,2024,KI/AI,0,0.0,4833
+BASF,Chemie,2025,Daten/Data,0,0.0,4216
+BASF,Chemie,2025,KI/AI,5,1.186,4216
+BMW,Automobil,2022,Daten/Data,0,0.0,5055
+BMW,Automobil,2022,KI/AI,0,0.0,5055
+BMW,Automobil,2023,Daten/Data,0,0.0,5724
+BMW,Automobil,2023,KI/AI,1,0.1038,5724
+BMW,Automobil,2024,Daten/Data,2,0.6164,5069
+BMW,Automobil,2024,KI/AI,1,0.1233,5069
+BMW,Automobil,2025,Daten/Data,1,0.11475,5575
+BMW,Automobil,2025,KI/AI,6,0.9844999999999999,5575
+Bayer,Chemie & Pharma,2022,Daten/Data,1,0.1192,6867
+Bayer,Chemie & Pharma,2022,KI/AI,0,0.0,6867
+Bayer,Chemie & Pharma,2023,Daten/Data,0,0.0,6260
+Bayer,Chemie & Pharma,2023,KI/AI,0,0.0,6260
+Bayer,Chemie & Pharma,2024,Daten/Data,1,0.15935,5134
+Bayer,Chemie & Pharma,2024,KI/AI,1,0.15935,5134
+Bayer,Chemie & Pharma,2025,Daten/Data,0,0.0,5519
+Bayer,Chemie & Pharma,2025,KI/AI,0,0.0,5519
+Beiersdorf,Konsumgüter,2022,Daten/Data,0,0.0,2785
+Beiersdorf,Konsumgüter,2022,KI/AI,0,0.0,2785
 Beiersdorf,Konsumgüter,2023,Daten/Data,0,0.0,2675
 Beiersdorf,Konsumgüter,2023,KI/AI,0,0.0,2675
 Beiersdorf,Konsumgüter,2024,Daten/Data,0,0.0,2331
 Beiersdorf,Konsumgüter,2024,KI/AI,0,0.0,2331
-Beiersdorf,Konsumgüter,2025,Daten/Data,0,0.0,2747
-Beiersdorf,Konsumgüter,2025,KI/AI,0,0.0,2747
-Brenntag,Chemie,2022,Daten/Data,0,0.0,7013
-Brenntag,Chemie,2022,KI/AI,0,0.0,7013
-Brenntag,Chemie,2023,Daten/Data,3,0.33465,4594
-Brenntag,Chemie,2023,KI/AI,0,0.0,4594
-Brenntag,Chemie,2024,Daten/Data,3,0.35935,4174
-Brenntag,Chemie,2024,KI/AI,1,0.1198,4174
-Brenntag,Chemie,2025,Daten/Data,4,0.509,7958
-Brenntag,Chemie,2025,KI/AI,3,0.37415,7958
-Commerzbank,Banken,2022,Daten/Data,0,0.0,4058
-Commerzbank,Banken,2022,KI/AI,0,0.0,4058
-Commerzbank,Banken,2023,Daten/Data,0,0.0,4563
-Commerzbank,Banken,2023,KI/AI,0,0.0,4563
-Commerzbank,Banken,2024,Daten/Data,0,0.0,4931
-Commerzbank,Banken,2024,KI/AI,2,0.2475,4931
+Beiersdorf,Konsumgüter,2025,Daten/Data,0,0.0,2745
+Beiersdorf,Konsumgüter,2025,KI/AI,0,0.0,2745
+Brenntag,Chemie,2022,Daten/Data,0,0.0,7315
+Brenntag,Chemie,2022,KI/AI,0,0.0,7315
+Brenntag,Chemie,2023,Daten/Data,3,0.32375,4745
+Brenntag,Chemie,2023,KI/AI,0,0.0,4745
+Brenntag,Chemie,2024,Daten/Data,5,0.6212,7973
+Brenntag,Chemie,2024,KI/AI,1,0.11675,7973
+Brenntag,Chemie,2025,Daten/Data,5,0.6231,8106
+Brenntag,Chemie,2025,KI/AI,3,0.36555000000000004,8106
+Commerzbank,Banken,2022,Daten/Data,0,0.0,4088
+Commerzbank,Banken,2022,KI/AI,0,0.0,4088
+Commerzbank,Banken,2023,Daten/Data,0,0.0,4571
+Commerzbank,Banken,2023,KI/AI,0,0.0,4571
+Commerzbank,Banken,2024,Daten/Data,0,0.0,4947
+Commerzbank,Banken,2024,KI/AI,2,0.24655,4947
 Commerzbank,Banken,2025,Daten/Data,0,0.0,5119
 Commerzbank,Banken,2025,KI/AI,13,1.5543,5119
-Continental,Automobil,2022,Daten/Data,2,0.2768,6734
-Continental,Automobil,2022,KI/AI,1,0.1384,6734
-Continental,Automobil,2023,Daten/Data,1,0.1471,6756
-Continental,Automobil,2023,KI/AI,1,0.1471,6756
-Continental,Automobil,2024,Daten/Data,1,0.1663,6790
-Continental,Automobil,2024,KI/AI,0,0.0,6790
-Continental,Automobil,2025,Daten/Data,0,0.0,6875
-Continental,Automobil,2025,KI/AI,1,0.1644,6875
+Continental,Automobil,2022,Daten/Data,2,0.27745,6742
+Continental,Automobil,2022,KI/AI,1,0.13875,6742
+Continental,Automobil,2023,Daten/Data,1,0.14715,6715
+Continental,Automobil,2023,KI/AI,1,0.14715,6715
+Continental,Automobil,2024,Daten/Data,1,0.16655,6829
+Continental,Automobil,2024,KI/AI,0,0.0,6829
+Continental,Automobil,2025,Daten/Data,0,0.0,6828
+Continental,Automobil,2025,KI/AI,1,0.1644,6828
 DHL,Logistik,2022,Daten/Data,2,0.4753,4208
 DHL,Logistik,2022,KI/AI,0,0.0,4208
 DHL,Logistik,2023,Daten/Data,1,0.2593,3856
 DHL,Logistik,2023,KI/AI,1,0.2593,3856
 DHL,Logistik,2024,Daten/Data,2,0.4685,4269
 DHL,Logistik,2024,KI/AI,2,0.4685,4269
-DHL,Logistik,2025,Daten/Data,0,0.0,4550
-DHL,Logistik,2025,KI/AI,8,1.1409,4550
-DaimlerTruck,Automobil,2022,Daten/Data,0,0.0,6338
-DaimlerTruck,Automobil,2022,KI/AI,0,0.0,6338
-DaimlerTruck,Automobil,2023,Daten/Data,0,0.0,5998
-DaimlerTruck,Automobil,2023,KI/AI,0,0.0,5998
-DaimlerTruck,Automobil,2024,Daten/Data,0,0.0,5530
-DaimlerTruck,Automobil,2024,KI/AI,0,0.0,5530
+DHL,Logistik,2025,Daten/Data,0,0.0,4548
+DHL,Logistik,2025,KI/AI,8,1.14155,4548
+DaimlerTruck,Automobil,2022,Daten/Data,0,0.0,6325
+DaimlerTruck,Automobil,2022,KI/AI,0,0.0,6325
+DaimlerTruck,Automobil,2023,Daten/Data,0,0.0,5968
+DaimlerTruck,Automobil,2023,KI/AI,0,0.0,5968
+DaimlerTruck,Automobil,2024,Daten/Data,0,0.0,5517
+DaimlerTruck,Automobil,2024,KI/AI,0,0.0,5517
 DaimlerTruck,Automobil,2025,Daten/Data,0,0.0,3550
 DaimlerTruck,Automobil,2025,KI/AI,0,0.0,3550
-DeutscheBank,Banken,2022,Daten/Data,1,0.09125,9531
-DeutscheBank,Banken,2022,KI/AI,0,0.0,9531
+DeutscheBank,Banken,2022,Daten/Data,1,0.09155,9503
+DeutscheBank,Banken,2022,KI/AI,0,0.0,9503
 DeutscheBank,Banken,2023,Daten/Data,0,0.0,5998
 DeutscheBank,Banken,2023,KI/AI,0,0.0,5998
 DeutscheBank,Banken,2024,Daten/Data,0,0.0,5579
 DeutscheBank,Banken,2024,KI/AI,1,0.11675,5579
 DeutscheBank,Banken,2025,Daten/Data,2,0.4222,5621
 DeutscheBank,Banken,2025,KI/AI,1,0.1274,5621
-DeutscheBoerse,Finanzdienstleistungen,2022,Daten/Data,34,4.4794,8258
-DeutscheBoerse,Finanzdienstleistungen,2022,KI/AI,6,0.7816000000000001,8258
+DeutscheBoerse,Finanzdienstleistungen,2022,Daten/Data,34,4.481400000000001,8256
+DeutscheBoerse,Finanzdienstleistungen,2022,KI/AI,6,0.7819,8256
 DeutscheBoerse,Finanzdienstleistungen,2023,Daten/Data,17,2.2403500000000003,7526
 DeutscheBoerse,Finanzdienstleistungen,2023,KI/AI,4,0.5401,7526
-DeutscheBoerse,Finanzdienstleistungen,2024,Daten/Data,5,1.0288,5138
-DeutscheBoerse,Finanzdienstleistungen,2024,KI/AI,3,0.62975,5138
+DeutscheBoerse,Finanzdienstleistungen,2024,Daten/Data,5,1.0285,5139
+DeutscheBoerse,Finanzdienstleistungen,2024,KI/AI,3,0.62955,5139
 DeutscheBoerse,Finanzdienstleistungen,2025,Daten/Data,2,0.28045,6134
 DeutscheBoerse,Finanzdienstleistungen,2025,KI/AI,7,1.36295,6134
-Eon,Energie,2022,Daten/Data,0,0.0,2859
-Eon,Energie,2022,KI/AI,0,0.0,2859
-Eon,Energie,2023,Daten/Data,1,0.4209,2376
-Eon,Energie,2023,KI/AI,0,0.0,2376
-Eon,Energie,2024,Daten/Data,0,0.0,1899
-Eon,Energie,2024,KI/AI,0,0.0,1899
+Eon,Energie,2022,Daten/Data,0,0.0,2870
+Eon,Energie,2022,KI/AI,0,0.0,2870
+Eon,Energie,2023,Daten/Data,1,0.42,2381
+Eon,Energie,2023,KI/AI,0,0.0,2381
+Eon,Energie,2024,Daten/Data,0,0.0,1900
+Eon,Energie,2024,KI/AI,0,0.0,1900
 Eon,Energie,2025,Daten/Data,1,0.3622,2761
 Eon,Energie,2025,KI/AI,2,0.7244,2761
-Fresenius,Medizintechnik & Kliniken,2022,Daten/Data,0,0.0,3747
-Fresenius,Medizintechnik & Kliniken,2022,KI/AI,0,0.0,3747
-Fresenius,Medizintechnik & Kliniken,2023,Daten/Data,0,0.0,2459
-Fresenius,Medizintechnik & Kliniken,2023,KI/AI,2,0.8133,2459
-Fresenius,Medizintechnik & Kliniken,2024,Daten/Data,6,0.9214,4574
+Fresenius,Medizintechnik & Kliniken,2022,Daten/Data,0,0.0,3717
+Fresenius,Medizintechnik & Kliniken,2022,KI/AI,0,0.0,3717
+Fresenius,Medizintechnik & Kliniken,2023,Daten/Data,0,0.0,2460
+Fresenius,Medizintechnik & Kliniken,2023,KI/AI,2,0.813,2460
+Fresenius,Medizintechnik & Kliniken,2024,Daten/Data,6,0.92025,4574
 Fresenius,Medizintechnik & Kliniken,2024,KI/AI,7,1.30075,4574
 Fresenius,Medizintechnik & Kliniken,2025,Daten/Data,2,0.28595,4822
 Fresenius,Medizintechnik & Kliniken,2025,KI/AI,7,1.00085,4822
-FreseniusMedicalCare,Medizintechnik,2022,Daten/Data,2,0.3693,7352
-FreseniusMedicalCare,Medizintechnik,2022,KI/AI,0,0.0,7352
-FreseniusMedicalCare,Medizintechnik,2023,Daten/Data,1,0.2433,6579
-FreseniusMedicalCare,Medizintechnik,2023,KI/AI,0,0.0,6579
-FreseniusMedicalCare,Medizintechnik,2024,Daten/Data,0,0.0,9340
-FreseniusMedicalCare,Medizintechnik,2024,KI/AI,1,0.07435,9340
-FreseniusMedicalCare,Medizintechnik,2025,Daten/Data,2,0.31245,7096
-FreseniusMedicalCare,Medizintechnik,2025,KI/AI,0,0.0,7096
-GEA,Maschinenbau,2022,Daten/Data,2,0.2308,5770
-GEA,Maschinenbau,2022,KI/AI,0,0.0,5770
-GEA,Maschinenbau,2023,Daten/Data,0,0.0,4968
-GEA,Maschinenbau,2023,KI/AI,0,0.0,4968
-GEA,Maschinenbau,2024,Daten/Data,0,0.0,4895
-GEA,Maschinenbau,2024,KI/AI,1,0.14615,4895
-GEA,Maschinenbau,2025,Daten/Data,2,0.2788,6109
-GEA,Maschinenbau,2025,KI/AI,2,0.2788,6109
+FreseniusMedicalCare,Medizintechnik,2022,Daten/Data,2,0.36955,7376
+FreseniusMedicalCare,Medizintechnik,2022,KI/AI,0,0.0,7376
+FreseniusMedicalCare,Medizintechnik,2023,Daten/Data,1,0.2439,6572
+FreseniusMedicalCare,Medizintechnik,2023,KI/AI,0,0.0,6572
+FreseniusMedicalCare,Medizintechnik,2024,Daten/Data,0,0.0,9433
+FreseniusMedicalCare,Medizintechnik,2024,KI/AI,1,0.07395,9433
+FreseniusMedicalCare,Medizintechnik,2025,Daten/Data,2,0.30715,7158
+FreseniusMedicalCare,Medizintechnik,2025,KI/AI,0,0.0,7158
+GEA,Maschinenbau,2022,Daten/Data,2,0.2309,5755
+GEA,Maschinenbau,2022,KI/AI,0,0.0,5755
+GEA,Maschinenbau,2023,Daten/Data,0,0.0,4958
+GEA,Maschinenbau,2023,KI/AI,0,0.0,4958
+GEA,Maschinenbau,2024,Daten/Data,0,0.0,4897
+GEA,Maschinenbau,2024,KI/AI,1,0.14615,4897
+GEA,Maschinenbau,2025,Daten/Data,2,0.2788,6114
+GEA,Maschinenbau,2025,KI/AI,2,0.2788,6114
 HannoverRe,Versicherungen,2022,Daten/Data,1,0.3186,3139
 HannoverRe,Versicherungen,2022,KI/AI,0,0.0,3139
 HannoverRe,Versicherungen,2023,Daten/Data,0,0.0,2902
 HannoverRe,Versicherungen,2023,KI/AI,0,0.0,2902
-HannoverRe,Versicherungen,2024,Daten/Data,3,1.1881,2525
-HannoverRe,Versicherungen,2024,KI/AI,1,0.396,2525
+HannoverRe,Versicherungen,2024,Daten/Data,3,1.1886,2524
+HannoverRe,Versicherungen,2024,KI/AI,1,0.3962,2524
 HannoverRe,Versicherungen,2025,Daten/Data,0,0.0,1904
 HannoverRe,Versicherungen,2025,KI/AI,0,0.0,1904
-HeidelbergMaterials,Baustoffe,2022,Daten/Data,0,0.0,453
-HeidelbergMaterials,Baustoffe,2022,KI/AI,0,0.0,453
-HeidelbergMaterials,Baustoffe,2023,Daten/Data,0,0.0,670
-HeidelbergMaterials,Baustoffe,2023,KI/AI,0,0.0,670
-HeidelbergMaterials,Baustoffe,2024,Daten/Data,0,0.0,2543
-HeidelbergMaterials,Baustoffe,2024,KI/AI,0,0.0,2543
-HeidelbergMaterials,Baustoffe,2025,Daten/Data,4,1.2285,3215
-HeidelbergMaterials,Baustoffe,2025,KI/AI,2,0.6222,3215
-Henkel,Konsumgüter & Chemie,2022,Daten/Data,1,0.2296,4355
-Henkel,Konsumgüter & Chemie,2022,KI/AI,0,0.0,4355
-Henkel,Konsumgüter & Chemie,2023,Daten/Data,0,0.0,5505
-Henkel,Konsumgüter & Chemie,2023,KI/AI,0,0.0,5505
-Henkel,Konsumgüter & Chemie,2024,Daten/Data,1,0.2465,4056
-Henkel,Konsumgüter & Chemie,2024,KI/AI,1,0.2465,4056
-Henkel,Konsumgüter & Chemie,2025,Daten/Data,0,0.0,3951
-Henkel,Konsumgüter & Chemie,2025,KI/AI,5,1.2655,3951
-Infineon,Halbleiter,2022,Daten/Data,2,0.2812,3981
-Infineon,Halbleiter,2022,KI/AI,0,0.0,3981
-Infineon,Halbleiter,2023,Daten/Data,5,0.66595,4688
-Infineon,Halbleiter,2023,KI/AI,3,0.39955,4688
-Infineon,Halbleiter,2024,Daten/Data,2,0.24255,4653
-Infineon,Halbleiter,2024,KI/AI,7,0.8489,4653
-Infineon,Halbleiter,2025,Daten/Data,1,0.1329,4337
-Infineon,Halbleiter,2025,KI/AI,52,6.9112,4337
-MTU,Luftfahrt,2022,Daten/Data,0,0.0,2396
-MTU,Luftfahrt,2022,KI/AI,0,0.0,2396
-MTU,Luftfahrt,2023,Daten/Data,0,0.0,4300
-MTU,Luftfahrt,2023,KI/AI,0,0.0,4300
-MTU,Luftfahrt,2024,Daten/Data,0,0.0,6246
-MTU,Luftfahrt,2024,KI/AI,0,0.0,6246
-MTU,Luftfahrt,2025,Daten/Data,0,0.0,6967
-MTU,Luftfahrt,2025,KI/AI,0,0.0,6967
-Mercedes,Automobil,2022,Daten/Data,0,0.0,22
-Mercedes,Automobil,2022,KI/AI,0,0.0,22
-Mercedes,Automobil,2023,Daten/Data,0,0.0,19
-Mercedes,Automobil,2023,KI/AI,0,0.0,19
-Mercedes,Automobil,2024,Daten/Data,1,0.2057,2462
-Mercedes,Automobil,2024,KI/AI,1,0.2057,2462
-Mercedes,Automobil,2025,Daten/Data,0,0.0,41
-Mercedes,Automobil,2025,KI/AI,0,0.0,41
+HeidelbergMaterials,Baustoffe,2022,Daten/Data,0,0.0,441
+HeidelbergMaterials,Baustoffe,2022,KI/AI,0,0.0,441
+HeidelbergMaterials,Baustoffe,2023,Daten/Data,0,0.0,652
+HeidelbergMaterials,Baustoffe,2023,KI/AI,0,0.0,652
+HeidelbergMaterials,Baustoffe,2024,Daten/Data,0,0.0,2542
+HeidelbergMaterials,Baustoffe,2024,KI/AI,0,0.0,2542
+HeidelbergMaterials,Baustoffe,2025,Daten/Data,4,1.23,3213
+HeidelbergMaterials,Baustoffe,2025,KI/AI,2,0.6225499999999999,3213
+Henkel,Konsumgüter & Chemie,2022,Daten/Data,1,0.2297,4353
+Henkel,Konsumgüter & Chemie,2022,KI/AI,0,0.0,4353
+Henkel,Konsumgüter & Chemie,2023,Daten/Data,0,0.0,5506
+Henkel,Konsumgüter & Chemie,2023,KI/AI,0,0.0,5506
+Henkel,Konsumgüter & Chemie,2024,Daten/Data,1,0.2468,4052
+Henkel,Konsumgüter & Chemie,2024,KI/AI,1,0.2468,4052
+Henkel,Konsumgüter & Chemie,2025,Daten/Data,0,0.0,3944
+Henkel,Konsumgüter & Chemie,2025,KI/AI,5,1.2677,3944
+Infineon,Halbleiter,2022,Daten/Data,2,0.28155,3979
+Infineon,Halbleiter,2022,KI/AI,0,0.0,3979
+Infineon,Halbleiter,2023,Daten/Data,5,0.6628,4707
+Infineon,Halbleiter,2023,KI/AI,3,0.39765,4707
+Infineon,Halbleiter,2024,Daten/Data,2,0.243,4643
+Infineon,Halbleiter,2024,KI/AI,7,0.85055,4643
+Infineon,Halbleiter,2025,Daten/Data,1,0.1324,4351
+Infineon,Halbleiter,2025,KI/AI,52,6.8856,4351
+MTU,Luftfahrt,2022,Daten/Data,0,0.0,2388
+MTU,Luftfahrt,2022,KI/AI,0,0.0,2388
+MTU,Luftfahrt,2023,Daten/Data,0,0.0,4286
+MTU,Luftfahrt,2023,KI/AI,0,0.0,4286
+MTU,Luftfahrt,2024,Daten/Data,0,0.0,6237
+MTU,Luftfahrt,2024,KI/AI,0,0.0,6237
+MTU,Luftfahrt,2025,Daten/Data,0,0.0,7006
+MTU,Luftfahrt,2025,KI/AI,0,0.0,7006
+Mercedes,Automobil,2022,Daten/Data,0,0.0,3504
+Mercedes,Automobil,2022,KI/AI,0,0.0,3504
+Mercedes,Automobil,2023,Daten/Data,1,0.22025,3986
+Mercedes,Automobil,2023,KI/AI,0,0.0,3986
+Mercedes,Automobil,2024,Daten/Data,1,0.20585,5059
+Mercedes,Automobil,2024,KI/AI,1,0.20585,5059
+Mercedes,Automobil,2025,Daten/Data,0,0.0,5801
+Mercedes,Automobil,2025,KI/AI,0,0.0,5801
 Merck,Chemie & Pharma,2022,Daten/Data,7,1.9364,3615
 Merck,Chemie & Pharma,2022,KI/AI,0,0.0,3615
 Merck,Chemie & Pharma,2023,Daten/Data,0,0.0,3634
@@ -183,101 +183,101 @@ Merck,Chemie & Pharma,2024,Daten/Data,1,0.3582,2792
 Merck,Chemie & Pharma,2024,KI/AI,3,1.0745,2792
 Merck,Chemie & Pharma,2025,Daten/Data,0,0.0,3051
 Merck,Chemie & Pharma,2025,KI/AI,12,3.9331,3051
-MunichRe,Versicherungen,2022,Daten/Data,1,0.17245,4531
-MunichRe,Versicherungen,2022,KI/AI,0,0.0,4531
-MunichRe,Versicherungen,2023,Daten/Data,2,0.50995,5122
-MunichRe,Versicherungen,2023,KI/AI,1,0.25495,5122
-MunichRe,Versicherungen,2024,Daten/Data,0,0.0,4351
-MunichRe,Versicherungen,2024,KI/AI,1,0.3075,4351
-MunichRe,Versicherungen,2025,Daten/Data,0,0.0,5045
-MunichRe,Versicherungen,2025,KI/AI,0,0.0,5045
-PorscheSE,Holding,2022,Daten/Data,0,0.0,2630
-PorscheSE,Holding,2022,KI/AI,0,0.0,2630
-PorscheSE,Holding,2023,Daten/Data,0,0.0,4647
-PorscheSE,Holding,2023,KI/AI,3,0.4723,4647
-PorscheSE,Holding,2024,Daten/Data,0,0.0,3684
-PorscheSE,Holding,2024,KI/AI,4,0.70895,3684
-PorscheSE,Holding,2025,Daten/Data,1,0.1902,3480
-PorscheSE,Holding,2025,KI/AI,3,0.57055,3480
-RWE,Energie,2022,Daten/Data,0,0.0,4720
-RWE,Energie,2022,KI/AI,0,0.0,4720
-RWE,Energie,2023,Daten/Data,0,0.0,3251
-RWE,Energie,2023,KI/AI,0,0.0,3251
-RWE,Energie,2024,Daten/Data,0,0.0,2897
-RWE,Energie,2024,KI/AI,0,0.0,2897
-RWE,Energie,2025,Daten/Data,0,0.0,3813
-RWE,Energie,2025,KI/AI,3,0.54765,3813
-Rheinmetall,Wehrtechnik,2022,Daten/Data,0,0.0,0
-Rheinmetall,Wehrtechnik,2022,KI/AI,0,0.0,0
-Rheinmetall,Wehrtechnik,2024,Daten/Data,0,0.0,4635
-Rheinmetall,Wehrtechnik,2024,KI/AI,0,0.0,4635
-Rheinmetall,Wehrtechnik,2025,Daten/Data,0,0.0,6899
-Rheinmetall,Wehrtechnik,2025,KI/AI,5,0.78555,6899
+MunichRe,Versicherungen,2022,Daten/Data,1,0.1723,4536
+MunichRe,Versicherungen,2022,KI/AI,0,0.0,4536
+MunichRe,Versicherungen,2023,Daten/Data,2,0.5097,5125
+MunichRe,Versicherungen,2023,KI/AI,1,0.25485,5125
+MunichRe,Versicherungen,2024,Daten/Data,0,0.0,4329
+MunichRe,Versicherungen,2024,KI/AI,1,0.3094,4329
+MunichRe,Versicherungen,2025,Daten/Data,0,0.0,5024
+MunichRe,Versicherungen,2025,KI/AI,0,0.0,5024
+PorscheSE,Holding,2022,Daten/Data,0,0.0,2636
+PorscheSE,Holding,2022,KI/AI,0,0.0,2636
+PorscheSE,Holding,2023,Daten/Data,0,0.0,4706
+PorscheSE,Holding,2023,KI/AI,3,0.47125,4706
+PorscheSE,Holding,2024,Daten/Data,0,0.0,3722
+PorscheSE,Holding,2024,KI/AI,4,0.7067,3722
+PorscheSE,Holding,2025,Daten/Data,1,0.18855,3533
+PorscheSE,Holding,2025,KI/AI,3,0.5656,3533
+RWE,Energie,2022,Daten/Data,0,0.0,4713
+RWE,Energie,2022,KI/AI,0,0.0,4713
+RWE,Energie,2023,Daten/Data,0,0.0,3239
+RWE,Energie,2023,KI/AI,0,0.0,3239
+RWE,Energie,2024,Daten/Data,0,0.0,2887
+RWE,Energie,2024,KI/AI,0,0.0,2887
+RWE,Energie,2025,Daten/Data,0,0.0,3809
+RWE,Energie,2025,KI/AI,3,0.54845,3809
+Rheinmetall,Wehrtechnik,2022,Daten/Data,0,0.0,1665
+Rheinmetall,Wehrtechnik,2022,KI/AI,0,0.0,1665
+Rheinmetall,Wehrtechnik,2024,Daten/Data,0,0.0,4639
+Rheinmetall,Wehrtechnik,2024,KI/AI,0,0.0,4639
+Rheinmetall,Wehrtechnik,2025,Daten/Data,0,0.0,6908
+Rheinmetall,Wehrtechnik,2025,KI/AI,5,0.7849999999999999,6908
 SAP,Software,2022,Daten/Data,0,0.0,4308
 SAP,Software,2022,KI/AI,0,0.0,4308
-SAP,Software,2023,Daten/Data,3,0.43165,5194
-SAP,Software,2023,KI/AI,3,0.43165,5194
-SAP,Software,2024,Daten/Data,3,0.4797,4532
-SAP,Software,2024,KI/AI,35,6.5763,4532
+SAP,Software,2023,Daten/Data,3,0.43205,5190
+SAP,Software,2023,KI/AI,3,0.43205,5190
+SAP,Software,2024,Daten/Data,3,0.48,4531
+SAP,Software,2024,KI/AI,39,7.218100000000001,4531
 SAP,Software,2025,Daten/Data,14,3.4852999999999996,3716
 SAP,Software,2025,KI/AI,25,5.27395,3716
-Siemens,Elektrotechnik,2022,Daten/Data,1,0.1076,6572
-Siemens,Elektrotechnik,2022,KI/AI,0,0.0,6572
-Siemens,Elektrotechnik,2023,Daten/Data,5,0.52465,6906
-Siemens,Elektrotechnik,2023,KI/AI,7,0.7345,6906
-Siemens,Elektrotechnik,2024,Daten/Data,4,0.44615,6628
-Siemens,Elektrotechnik,2024,KI/AI,38,4.48135,6628
-Siemens,Elektrotechnik,2025,Daten/Data,9,1.21195,5852
-Siemens,Elektrotechnik,2025,KI/AI,26,3.89755,5852
-SiemensEnergy,Energietechnik,2022,Daten/Data,0,0.0,6750
-SiemensEnergy,Energietechnik,2022,KI/AI,0,0.0,6750
-SiemensEnergy,Energietechnik,2023,Daten/Data,0,0.0,7036
-SiemensEnergy,Energietechnik,2023,KI/AI,0,0.0,7036
-SiemensEnergy,Energietechnik,2024,Daten/Data,0,0.0,7059
-SiemensEnergy,Energietechnik,2024,KI/AI,2,0.2767,7059
-SiemensEnergy,Energietechnik,2025,Daten/Data,3,0.3865,6466
-SiemensEnergy,Energietechnik,2025,KI/AI,10,1.61125,6466
-SiemensHealthineers,Medizintechnik,2022,Daten/Data,4,0.62815,3742
-SiemensHealthineers,Medizintechnik,2022,KI/AI,4,0.62815,3742
+Siemens,Elektrotechnik,2022,Daten/Data,1,0.1078,6551
+Siemens,Elektrotechnik,2022,KI/AI,0,0.0,6551
+Siemens,Elektrotechnik,2023,Daten/Data,5,0.52785,6866
+Siemens,Elektrotechnik,2023,KI/AI,7,0.739,6866
+Siemens,Elektrotechnik,2024,Daten/Data,4,0.44745,6605
+Siemens,Elektrotechnik,2024,KI/AI,38,4.4952499999999995,6605
+Siemens,Elektrotechnik,2025,Daten/Data,9,1.2123,5841
+Siemens,Elektrotechnik,2025,KI/AI,26,3.90275,5841
+SiemensEnergy,Energietechnik,2022,Daten/Data,0,0.0,6745
+SiemensEnergy,Energietechnik,2022,KI/AI,0,0.0,6745
+SiemensEnergy,Energietechnik,2023,Daten/Data,0,0.0,7022
+SiemensEnergy,Energietechnik,2023,KI/AI,0,0.0,7022
+SiemensEnergy,Energietechnik,2024,Daten/Data,0,0.0,7044
+SiemensEnergy,Energietechnik,2024,KI/AI,2,0.27725,7044
+SiemensEnergy,Energietechnik,2025,Daten/Data,3,0.3871,6455
+SiemensEnergy,Energietechnik,2025,KI/AI,10,1.61415,6455
+SiemensHealthineers,Medizintechnik,2022,Daten/Data,4,0.6313,3726
+SiemensHealthineers,Medizintechnik,2022,KI/AI,4,0.6313,3726
 SiemensHealthineers,Medizintechnik,2023,Daten/Data,1,0.14415,4784
 SiemensHealthineers,Medizintechnik,2023,KI/AI,3,0.4324,4784
-SiemensHealthineers,Medizintechnik,2024,Daten/Data,1,0.14705,5579
-SiemensHealthineers,Medizintechnik,2024,KI/AI,1,0.14705,5579
-SiemensHealthineers,Medizintechnik,2025,Daten/Data,0,0.0,4945
-SiemensHealthineers,Medizintechnik,2025,KI/AI,7,1.00575,4945
+SiemensHealthineers,Medizintechnik,2024,Daten/Data,1,0.14695,5583
+SiemensHealthineers,Medizintechnik,2024,KI/AI,1,0.14695,5583
+SiemensHealthineers,Medizintechnik,2025,Daten/Data,0,0.0,4943
+SiemensHealthineers,Medizintechnik,2025,KI/AI,7,1.00635,4943
 Symrise,Chemie & Konsumgüter,2022,Daten/Data,1,0.8795,1137
 Symrise,Chemie & Konsumgüter,2022,KI/AI,0,0.0,1137
 Symrise,Chemie & Konsumgüter,2023,Daten/Data,0,0.0,2150
 Symrise,Chemie & Konsumgüter,2023,KI/AI,0,0.0,2150
-Telekom,Telekommunikation,2022,Daten/Data,1,0.1772,4299
-Telekom,Telekommunikation,2022,KI/AI,1,0.1772,4299
-Telekom,Telekommunikation,2023,Daten/Data,2,0.3298,4509
-Telekom,Telekommunikation,2023,KI/AI,2,0.3298,4509
-Telekom,Telekommunikation,2024,Daten/Data,4,0.8312,4503
-Telekom,Telekommunikation,2024,KI/AI,10,1.8268,4503
-Telekom,Telekommunikation,2025,Daten/Data,3,0.66195,6728
-Telekom,Telekommunikation,2025,KI/AI,7,1.54455,6728
-VolkswagenGroup,Automobil,2022,Daten/Data,0,0.0,4719
-VolkswagenGroup,Automobil,2022,KI/AI,1,0.1756,4719
-VolkswagenGroup,Automobil,2023,Daten/Data,0,0.0,5526
-VolkswagenGroup,Automobil,2023,KI/AI,0,0.0,5526
+Telekom,Telekommunikation,2022,Daten/Data,2,0.27665,7853
+Telekom,Telekommunikation,2022,KI/AI,1,0.1773,7853
+Telekom,Telekommunikation,2023,Daten/Data,3,0.43685,7726
+Telekom,Telekommunikation,2023,KI/AI,2,0.33045,7726
+Telekom,Telekommunikation,2024,Daten/Data,4,0.6476,7777
+Telekom,Telekommunikation,2024,KI/AI,12,2.0265,7777
+Telekom,Telekommunikation,2025,Daten/Data,3,0.66165,7049
+Telekom,Telekommunikation,2025,KI/AI,7,1.5439,7049
+VolkswagenGroup,Automobil,2022,Daten/Data,0,0.0,4735
+VolkswagenGroup,Automobil,2022,KI/AI,1,0.1746,4735
+VolkswagenGroup,Automobil,2023,Daten/Data,0,0.0,5522
+VolkswagenGroup,Automobil,2023,KI/AI,0,0.0,5522
 VolkswagenGroup,Automobil,2024,Daten/Data,0,0.0,5718
 VolkswagenGroup,Automobil,2024,KI/AI,0,0.0,5718
 VolkswagenGroup,Automobil,2025,Daten/Data,0,0.0,4256
 VolkswagenGroup,Automobil,2025,KI/AI,0,0.0,4256
-Vonovia,Immobilien,2022,Daten/Data,0,0.0,4123
-Vonovia,Immobilien,2022,KI/AI,0,0.0,4123
+Vonovia,Immobilien,2022,Daten/Data,0,0.0,4108
+Vonovia,Immobilien,2022,KI/AI,0,0.0,4108
 Vonovia,Immobilien,2023,Daten/Data,0,0.0,3250
 Vonovia,Immobilien,2023,KI/AI,0,0.0,3250
 Vonovia,Immobilien,2024,Daten/Data,0,0.0,3221
 Vonovia,Immobilien,2024,KI/AI,1,0.1863,3221
-Vonovia,Immobilien,2025,Daten/Data,0,0.0,3335
-Vonovia,Immobilien,2025,KI/AI,0,0.0,3335
-Zalando,Versandhandel,2022,Daten/Data,0,0.0,0
-Zalando,Versandhandel,2022,KI/AI,0,0.0,0
-Zalando,Versandhandel,2023,Daten/Data,0,0.0,2995
-Zalando,Versandhandel,2023,KI/AI,0,0.0,2995
-Zalando,Versandhandel,2024,Daten/Data,0,0.0,3357
-Zalando,Versandhandel,2024,KI/AI,0,0.0,3357
-Zalando,Versandhandel,2025,Daten/Data,0,0.0,3757
-Zalando,Versandhandel,2025,KI/AI,1,0.2662,3757
+Vonovia,Immobilien,2025,Daten/Data,0,0.0,3331
+Vonovia,Immobilien,2025,KI/AI,0,0.0,3331
+Zalando,Versandhandel,2022,Daten/Data,0,0.0,2713
+Zalando,Versandhandel,2022,KI/AI,0,0.0,2713
+Zalando,Versandhandel,2023,Daten/Data,0,0.0,2946
+Zalando,Versandhandel,2023,KI/AI,0,0.0,2946
+Zalando,Versandhandel,2024,Daten/Data,0,0.0,3303
+Zalando,Versandhandel,2024,KI/AI,0,0.0,3303
+Zalando,Versandhandel,2025,Daten/Data,0,0.0,3710
+Zalando,Versandhandel,2025,KI/AI,1,0.2695,3710

@@ -117,6 +117,68 @@ freq.to_csv(REP_DIR / 'freq_detail.csv',     index=False, encoding='utf-8-sig')
 agg.to_csv(REP_DIR  / 'freq_aggregated.csv', index=False, encoding='utf-8-sig')
 print('✓ freq_detail.csv & freq_aggregated.csv exportiert')
 
+# ════════════════════════════════════════════════════════════════════════════
+# STUPIDITY CHECK 2: KWIC für Daten/Data
+# ════════════════════════════════════════════════════════════════════════════
+def kwic_check(corpus, terms, company=None, year=None, window_sentences=1):
+    """
+    Gibt alle Vorkommen der Terms im Satzkontext aus.
+    window_sentences=1 → den ganzen Satz in dem der Treffer liegt.
+    """
+    subset = corpus.copy()
+    if company:
+        subset = subset[subset['company'] == company]
+    if year:
+        subset = subset[subset['year'] == year]
+
+    results = []
+    for _, doc in subset.iterrows():
+        # Text in Sätze aufteilen
+        sentences = re.split(r'(?<=[.!?])\s+', doc['text'])
+        for sent in sentences:
+            for term in terms:
+                pattern = r'\b' + re.escape(term) + r'\b'
+                if re.search(pattern, sent, re.IGNORECASE):
+                    # Treffer im Satz markieren
+                    marked = re.sub(
+                        pattern,
+                        lambda m: f'>>>{m.group()}<<<',
+                        sent,
+                        flags=re.IGNORECASE
+                    )
+                    results.append({
+                        'company': doc['company'],
+                        'year':    doc['year'],
+                        'role':    doc['role'],
+                        'term':    term,
+                        'context': marked.strip(),
+                    })
+
+    df = pd.DataFrame(results)
+    return df
+
+
+# Ausführen — alle Daten/Data-Treffer ausgeben
+daten_kwic = kwic_check(
+    corpus,
+    terms=TERMS['Daten/Data'],
+    # company='SAP',   # optional: auf eine Firma einschränken
+    # year=2024,       # optional: auf ein Jahr einschränken
+)
+
+print(f'\nDaten/Data-Treffer gesamt: {len(daten_kwic)}')
+print(f'Davon verdächtig kurze Kontexte (< 20 Zeichen):')
+short = daten_kwic[daten_kwic['context'].str.len() < 20]
+print(short[['company','year','role','context']].to_string(index=False))
+
+# Export zur manuellen Durchsicht
+daten_kwic.to_csv(
+    REP_DIR / 'kwic_daten_check.csv',
+    index=False,
+    encoding='utf-8-sig'
+)
+print(f'\n✓ Alle Treffer exportiert nach: {REP_DIR}/kwic_daten_check.csv')
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # PLOT 1 — Zeitverlauf: y1 = norm, y2 = Gesamtsumme

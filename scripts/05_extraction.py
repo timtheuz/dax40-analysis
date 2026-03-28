@@ -65,22 +65,41 @@ def detect_language(text):
 
 
 def extract_text(path):
-    # Primär: pdftotext (beste Qualität für Umlaute)
+    # Versuch 1: pdftotext
     try:
         r = subprocess.run(
             ['pdftotext', '-layout', str(path), '-'],
             capture_output=True, text=True, timeout=30
         )
-        if r.returncode == 0 and r.stdout.strip():
+        text = r.stdout.strip()
+        if r.returncode == 0 and len(text.split()) > 50:
             return r.stdout
     except Exception:
         pass
-    # Fallback: pdfplumber
+
+    # Versuch 2: pdfplumber
     try:
         import pdfplumber
         with pdfplumber.open(str(path)) as pdf:
-            return '\n'.join(p.extract_text() or '' for p in pdf.pages)
+            text = '\n'.join(p.extract_text() or '' for p in pdf.pages)
+            if len(text.split()) > 50:
+                return text
     except Exception:
+        pass
+
+    # Versuch 3: OCR (für gescannte PDFs)
+    print(f'    → OCR wird verwendet für: {path.name}')
+    try:
+        from pdf2image import convert_from_path
+        import pytesseract
+        pages = convert_from_path(str(path), dpi=200)
+        lang = 'deu+eng'
+        return '\n'.join(
+            pytesseract.image_to_string(page, lang=lang)
+            for page in pages
+        )
+    except Exception as e:
+        print(f'    → OCR fehlgeschlagen: {e}')
         return ''
 
 
@@ -130,6 +149,19 @@ corpus = pd.DataFrame(records)
 print(f'\nCorpus: {len(corpus)} Dokumente | {corpus["wordcount"].sum():,} Wörter gesamt')
 print(f'Firmen: {corpus["company"].nunique()} | Jahre: {sorted(corpus["year"].unique())}')
 
+# ─── STUPIDITY CHECK 1: Dokumente mit niedrigem Wordcount ────────────────────
+WORDCOUNT_THRESHOLD = 100
+
+low_wc = corpus[corpus['wordcount'] < WORDCOUNT_THRESHOLD].copy()
+print(f'\n⚠ Dokumente mit weniger als {WORDCOUNT_THRESHOLD} Wörtern: {len(low_wc)}')
+
+for _, row in low_wc.iterrows():
+    print(f'\n{"─"*60}')
+    print(f'  {row["company"]} | {row["year"]} | {row["role"].upper()}')
+    print(f'  Wordcount: {row["wordcount"]}')
+    print(f'  Datei: {row["filename"]}')
+    print(f'  Extrahierter Text (komplett):')
+    print(f'  >>>{row["text"]}<<<')
 
 # ─── EXPORT ───────────────────────────────────────────────────────────────────
 corpus.to_parquet(OUTPUT_DIR / 'corpus.parquet', index=False)
