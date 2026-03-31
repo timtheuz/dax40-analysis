@@ -1,74 +1,29 @@
-# DAX 40 AI-Analyse
-**Masterarbeit: Data Availability & KI-Wahrnehmung im Zeitverlauf (2022–2025)**
+# DAX 40 CEOs - Hauptversammlungsreden Analyse
+Systematische Analyse 136 CEO-Reden aus 35 DAX-Unternehmen (2022-2025) zu Erwähnungen aus den Keyword-Gruppen KI (inkl. Künstliche Intelligenz, AI, Machine Learning, GenAI, LLM) und Daten (inkl. Daten, Data, data-driven).
 
-N-Gram-Analyse von Geschäftsberichten und HV-Reden der DAX-40-Unternehmen.
-
----
-
-## Setup
-
-```bash
-# 1. Repository klonen / Ordner öffnen
-cd dax40-ai-analysis
-
-# 2. Virtuelle Umgebung erstellen
-python -m venv .venv
-source .venv/bin/activate      # Mac/Linux
-# .venv\Scripts\activate       # Windows
-
-# 3. Abhängigkeiten installieren
-pip install -r requirements.txt
-
-# 4. Sprachmodelle für NLP (optional, für Lemmatisierung)
-python -m spacy download de_core_news_lg
-python -m spacy download en_core_web_sm
-
-# 5. JupyterLab starten
-jupyter lab
-```
 
 ---
 
 ## Workflow
 
-### Schritt 1: Konfiguration prüfen
-`config.yaml` enthält alle URLs und Analyse-Parameter.
-Fehlende URLs (insb. HV-Reden) manuell ergänzen.
+### Schritt 1: PDFs herunterladen, Text extrahieren & Corpus aufbauen (optional)
+1. HV-Reden manuell herunterladen und ordnen.
 
-### Schritt 2: PDFs herunterladen
+2. _documents_registry.py_ anpassen
+
+3. Corpus erstellen
 ```bash
-# Nur Siemens (PoC)
-python scripts/downloader.py --company siemens --all-years
-
-# Alle DAX-40-Unternehmen
-python scripts/downloader.py --all
+python scripts/05_extraction.py
+Erstellt: data/processed/corpus.parquet
 ```
 
-Nicht automatisch downloadbare Dokumente (HV-Reden) manuell herunterladen und benennen:
+Alternativ _/data/processed/corpus.parquet_ nutzen
+
+### Schritt 2: Analyse in Jupyter
 ```
-data/raw/siemens/2022/
-    annual_report.pdf      ← Geschäftsbericht
-    ceo_speech.pdf         ← CEO-Rede Hauptversammlung
-    supervisory_speech.pdf ← Aufsichtsratsvorsitzende-Rede
+notebooks/06_analysis_crosscompany.ipynb   ← run all
 ```
 
-### Schritt 3: Text extrahieren & Corpus aufbauen
-```bash
-python scripts/extractor.py --company siemens
-# Erstellt: data/processed/corpus.parquet
-```
-
-### Schritt 4: Analyse in Jupyter
-```
-notebooks/03_analysis.ipynb   ← Hier starten für Charts & Tabellen
-```
-
-### Schritt 5: Batch-Analyse (alle Unternehmen)
-```bash
-python scripts/analyzer.py --all --export
-# Charts → outputs/figures/{company}/
-# Tabellen → outputs/reports/
-```
 
 ---
 
@@ -76,29 +31,22 @@ python scripts/analyzer.py --all --export
 
 ```
 dax40-ai-analysis/
-├── config.yaml                 ← Zentrale Konfiguration
-├── requirements.txt
 ├── data/
-│   ├── raw/                    ← Original-PDFs (nicht ins Git!)
+│   ├── raw/                    ← Original-PDFs (nicht im Git)
 │   │   └── siemens/
 │   │       ├── 2022/
-│   │       │   ├── annual_report.pdf
 │   │       │   ├── ceo_speech.pdf
 │   │       │   └── supervisory_speech.pdf
 │   │       ├── 2023/ ...
 │   └── processed/
 │       └── corpus.parquet      ← Zentraler Analyse-Datensatz
-├── notebooks/
-│   ├── 01_ingest.ipynb         ← Download & Extraktion (interaktiv)
-│   ├── 02_clean.ipynb          ← Text-Bereinigung & Qualitätskontrolle
-│   └── 03_analysis.ipynb       ← Haupt-Analyse & Charts
 ├── scripts/
-│   ├── downloader.py           ← PDF-Download-Automatisierung
-│   ├── extractor.py            ← PDF→Text, Corpus-Aufbau
-│   └── analyzer.py             ← N-Gram-Analyse & Visualisierungen
+│   ├── documents_registry.py       ← Dokumentenstruktur fürs Einlesen
+│   ├── 05_extraction.py            ← PDF→Text, Corpus-Aufbau
+│   └── 06_analysis_crosscompany.py ← Haupt-Analyse & Charts
 └── outputs/
     ├── figures/                ← Charts (.png, .svg)
-    │   └── siemens/
+    │   └── cross_company/
     └── reports/                ← Tabellen (.csv, .xlsx, .parquet)
 ```
 
@@ -113,50 +61,17 @@ dax40-ai-analysis/
 | ki      | ai       |
 
 ### 2-Gramme (Wortpaare)
-| Deutsch                  | Englisch               |
-|--------------------------|------------------------|
-| künstliche intelligenz   | artificial intelligence |
-| datengetrieben           | data driven            |
-| neuronales netz          | neural network         |
-| tiefes lernen            | deep learning          |
-| –                        | machine learning       |
-| –                        | large language model   |
-| –                        | generative ai          |
+| Deutsch            | Englisch                |
+|--------------------|-------------------------|
+| künstliche intelligenz | artificial intelligence |
+| datengetrieben     | data driven             |
+| neuronales netz    | deep learning           |
+| etc.               | machine learning        |
+|                    | large language model    |
+|                    | etc.                    |
+
 
 ---
-
-## Dokument-Typen
-
-| Kürzel               | Beschreibung                              |
-|----------------------|-------------------------------------------|
-| `annual_report`      | Geschäftsbericht / Jahresbericht          |
-| `ceo_speech`         | CEO-Rede Hauptversammlung (Transkript)    |
-| `supervisory_speech` | AR-Vorsitz-Rede Hauptversammlung          |
-
----
-
-## IDE-Empfehlung
-
-**Claude Code** (Terminal) + **JupyterLab** (Browser) + **VS Code** (Dateieditor)
-
-```bash
-# Claude Code installieren
-npm install -g @anthropic-ai/claude-code
-
-# Im Projektordner starten
-cd dax40-ai-analysis
-claude
-```
-
----
-
-## Hinweise zur Datenbeschaffung
-
-- **Geschäftsberichte**: Meist direkt als PDF auf der IR-Seite verfügbar
-- **HV-Reden**: Oft als Webseite oder Video publiziert, Transkripte selten als PDF
-  - Tipp: Viele Unternehmen veröffentlichen die Reden als HTML → mit Selenium scrapen
-  - Alternativ: YouTube-Transkripte (automatisch) für HV-Streams
-  - Notfallplan: Rede-Zusammenfassungen aus Pressemitteilungen
 
 ## .gitignore
 
